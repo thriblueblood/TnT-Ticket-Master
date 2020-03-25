@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/logo5.png</file>
+        <file>img/bg_login.png</file>
+        <file>img/21savage.png</file>
+        <file>img/ed_sheeran.png</file>
+        <file>img/the_vamps.png</file>
+        <file>img/ariana_grande.png</file>
+        <file>img/next.png</file>
+        <file>img/calendar.png</file>
+        <file>img/clock.png</file>
+        <file>img/ticket.png</file>
+        <file>img/venue.png</file>
+        <file>img/intro.png</file>
+        <file>img/stage.png</file>
+        <file>img/detail.png</file>
+        <file>img/zoom.png</file>
+        <file>img/invoice.png</file>
+        <file>img/bank.png</file>
+        <file>img/buy.png</file>
+    </qresource>
+</RCC>
